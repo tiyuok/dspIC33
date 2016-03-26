@@ -18,6 +18,7 @@ Requirement:
 
 #include "DataTypes.h"
 #include "tableEx.h"
+#include <math.h>
 
 const INT8U Ndft = 128;
 // Here we preload the cos(m) and sin(m)
